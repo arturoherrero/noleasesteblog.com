@@ -5,7 +5,7 @@ title: Sobre Nosotros
 
 Hemos creado *No Leas Este Blog* siguiendo nuestra pasión por aprender,
 descubrir y también compartir muchos de los libros que leemos. No nos sentimos
-autorizados para recomendar ningún libro e incluso vamos un paso más lejos y
+autorizados para recomendar ningún libro e incluso vamos un paso más allá y
 directamente te aconsejamos que no leas este blog.
 
 > En la lectura deben cuidarse dos cosas: escoger bien los libros y leerlos
@@ -15,7 +15,7 @@ corazón.
 
 Si quieres ponerte en contacto con nosotros o tienes alguna sugerencia
 estaríamos encantados de escucharte. Puedes ponerte en contacto con nosotros
-escribiendo a <{{ site.email }}>.
+escribiendo a <{{ site.email }}>
 
 Detrás de este proyecto hay dos personas que piensan que no se definen por lo
 que han estudiado o por sus trabajos, sino por cómo hacen cada pequeña cosa en
