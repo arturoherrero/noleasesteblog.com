@@ -7,7 +7,7 @@ layout: default
     <section class="index">
       <img src="{{ page.image | prepend: "/assets/images/" | prepend: site.baseurl }}" class="avatar">
       <div>
-        <h2 class="title"><a href="{{ page.url }}" rel="prefetch">{{ page.title }}</a></h2>
+        <h2 class="title"><a href="{{ page.url | prepend: site.baseurl }}" rel="prefetch">{{ page.title }}</a></h2>
         <p>{{ page.description }}</p>
         <div class="meta">
           Escrito por <address>{{ page.author }}</address> &mdash;
