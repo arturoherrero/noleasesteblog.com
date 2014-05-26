@@ -5,7 +5,7 @@ layout: default
 <article class="container">
   {% for page in site.posts %}
     <section class="index">
-      <img src="/assets/images/{{ page.image }}" class="avatar">
+      <img src="{{ page.image | prepend: "/assets/images/" | prepend: site.baseurl }}" class="avatar">
       <div>
         <h2 class="title"><a href="{{ page.url }}" rel="prefetch">{{ page.title }}</a></h2>
         <p>{{ page.description }}</p>
