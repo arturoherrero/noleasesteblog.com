@@ -1,16 +1,15 @@
 <header>
-  <div class="blog-cover"
-    style="background-image:url({{ "/assets/images/handcrafted-wood.jpg" | prepend: site.baseurl }});">
+  <div class="blog-cover">
     <section>
       <div class="container">
-        <a href="{{ "/" | prepend: site.baseurl }}">
+        <a href="/">
           <h1>{{ site.title }}</h1>
           <h3>{{ site.subtitle }}</h3>
         </a>
         <div class="icons">
           <a href="https://twitter.com/NoLeasEsteBlog" title="Síguenos en Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
           <a href="https://facebook.com/NoLeasEsteBlog" title="Síguenos en Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-          <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS Feed"><i class="icon icon-rss"></i></a>
+          <a href="{{ site_url }}/feed.xml" title="RSS Feed"><i class="icon icon-rss"></i></a>
         </div>
       </div>
     </section>
