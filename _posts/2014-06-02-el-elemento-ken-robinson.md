@@ -98,4 +98,4 @@ vida.
 Hazte un favor, compra [El Elemento de Ken Robinson en Amazon][2].
 
 [1]: http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
-[2]: http://www.amazon.es/dp/8499083900
+[2]: http://www.amazon.es/gp/product/8499083900/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8499083900&linkCode=as2&tag=noleesbl09-21
