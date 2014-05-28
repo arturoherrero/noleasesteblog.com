@@ -3,7 +3,7 @@ layout: post
 title: El Elemento - Ken Robinson
 description: Descubrir tu pasión lo cambia todo.
 image: el-elemento-ken-robinson.jpg
-date: 2014-06-02
+date: 2014-05-29
 author: Beatriz Espinosa
 categories: educación
 ---
