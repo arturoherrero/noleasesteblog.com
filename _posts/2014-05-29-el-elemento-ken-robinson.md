@@ -20,11 +20,6 @@ Sir Ken Robinson no debería necesitar presentación, pero si todavía andas
 despistado su TED Talk es la más vista de la historia, [How schools kill
 creativity][1].
 
-> En la lectura deben cuidarse dos cosas: escoger bien los libros y leerlos
-bien. Nunca deben leerse libros que extravíen el entendimiento o corrompan el
-corazón.  
-~Jaime Balmes
-
 **¿Qué es El Elemento?** ¿Cómo describir algo tan complejo y a la par tan
 evidente? Si en esta vida vamos a estar, como todo apunta, de paso, es lógico
 que dediquemos nuestro tiempo y energía a elaborar algo que realmente nos
