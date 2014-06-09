@@ -23,7 +23,7 @@ aparece el maestro][1]*.
 Poniendo el foco en la triada *mente - cuerpo - alma*, podemos elegir un modo de
 vida más acorde a nuestras necesidades, cuando nos paramos a escuchar lo que
 verdaderamente queremos. En un día normal, una persona tiene más de 60.000
-pensamientos *guau*. La mala noticia es que casi el 99% de ellos son exactamente
+pensamientos, -guau-. La mala noticia es que casi el 99% de ellos son exactamente
 los mismos que los del día anterior, lo cual nos da una pista de lo enfrascados
 que vivimos en nuestro modo de *piloto automático*. Esto significa que somos más
 reactivos -ante estímulos externos me dejo llevar- que proactivos -yo dirijo la
@@ -39,7 +39,7 @@ cada cosa que nos pasa.
 El punto de partida es fijarse metas y tener constancia y voluntad para
 conseguirlas. Si es lo que realmente queremos y necesitamos, lo acabaremos
 haciendo y todo encajará en su sitio de manera natural, aunque ello nos cueste
-algún que otro fracaso en el camino -*Kaizen* o mejora constante-.
+algún que otro fracaso en el camino, -*Kaizen* o mejora constante-.
 
 Bajo este punto de vista, la **felicidad personal** -algo más allá de ser feliz
 con lo de fuera- es una elección. Elegimos o no ser felices ante distintas
