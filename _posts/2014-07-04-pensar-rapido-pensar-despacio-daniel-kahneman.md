@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pensar rápido, pensar despacio - Daniel Kahneman
-description: Una fábula espiritual.
+description: Un recorrido por los dos sistemas de nuestra mente y por nuestros autoengaños más habituales.
 image: pensar-rapido-pensar-despacio-daniel-kahneman.jpg
 date: 2014-07-04
 author: Arturo Herrero
@@ -88,5 +88,3 @@ Economía. Brillante, estimulante e inspirador.
 
 [1]: http://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos
 [2]: http://www.amazon.es/gp/product/8490322503/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8490322503&linkCode=as2&tag=noleesbl09-21
-
-
