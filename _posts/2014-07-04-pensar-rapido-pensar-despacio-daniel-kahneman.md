@@ -38,6 +38,8 @@ errores serios y sistemáticos.
 El bate cuesta un dólar más que la pelota.  
 ¿Cuánto cuesta la pelota?
 
+> La respuesta correcta es 5 centavos.
+
 #### Sesgo de la disponibilidad
 
 El sesgo de la disponibilidad es una tendencia a valorar las probabilidades en
@@ -48,12 +50,17 @@ base a los ejemplos más sencillos que acuden a nuestra mente.
 
 #### Heurística de la representatividad
 
-La probabilidad de una hipótesis, considerando cuánto se parece la hipótesis de los datos disponibles en lugar de utilizar un cálculo bayesiano.
+Evaluar la probabilidad de una hipótesis, considerando cuánto se parece la
+hipótesis con los datos disponibles en lugar de utilizar un cálculo
+probabilístico.
 
 > Steve es muy tímido y retraído, siempre servicial, pero poco interesado por
 > la gente o por el mundo real. De carácter disciplinado y metódico, necesita
 > ordenarlo y organizarlo todo, y tiene obsesión por el detalle.  
 ¿Es probable que Steve sea un bibliotecario o un agricultor?
+
+> El hecho de que en la población haya muchos más agricultores que
+bibliotecarios debería contar en una estimación razonable.
 
 #### Anclaje
 
