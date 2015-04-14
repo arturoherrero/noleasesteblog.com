@@ -80,9 +80,7 @@ metaíndice con todas las ideas del libro:
 La economía me parece una ciencia fascinante donde convergen múltiples
 disciplinas tan diferentes como psicología, filosofía, historia, sociología,
 política y matemáticas. Si todavía piensas que la economía es una ciencia
-lúgubre, compra [50 cosas que hay que saber sobre economía en Amazon][2]. Te
-encantará.
+lúgubre, lee 50 cosas que hay que saber sobre economía en Amazon. Te encantará.
 
 
 [1]: http://huertadesoto.blogspot.com
-[2]: http://www.amazon.es/gp/product/8434469065/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8434469065&linkCode=as2&tag=noleesbl09-21

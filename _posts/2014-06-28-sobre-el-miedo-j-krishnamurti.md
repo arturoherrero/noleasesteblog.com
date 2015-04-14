@@ -59,7 +59,5 @@ pueda empezar a gestarse un mundo diferente -mejor-, que es sin duda el fin
 programa de radio Pensamiento Positivo de Sergio Fernández titulado [Vivir desde
 el amor. Vivir desde el miedo][1].
 
-Como siempre te invitamos a comprar [Sobre el miedo en Amazon][2].
 
 [1]: https://www.youtube.com/watch?v=4QZN1YL5BdA.
-[2]: http://www.amazon.es/gp/product/8484454894/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8484454894&linkCode=as2&tag=noleesbl09-21

@@ -46,10 +46,8 @@ con lo de fuera- es una elección. Elegimos o no ser felices ante distintas
 situaciones, ya que lo que para alguien es una tragedia, quizá no lo sea para
 otro. Todo es relativo.
 
-Puedes comprar [El monje que vendió su Ferrari en Amazon][2].
-
 Addendum: En mi mesilla la segunda parte, Las cartas del monje que vendió su
 Ferrari. Seguiremos informando.
 
+
 [1]: http://senderosalalma.wordpress.com/2013/11/25/cuando-el-alumno-esta-preparado-aparece-el-maestro/
-[2]: http://www.amazon.es/gp/product/8499087124/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8499087124&linkCode=as2&tag=noleesbl09-21

@@ -8,7 +8,7 @@ author: Beatriz Espinosa
 categories: desarrollo personal
 ---
 
-**[La ley del espejo de Yoshinori Noguchi][1]** es un libro sencillo y rápido
+**La ley del espejo de Yoshinori Noguchi** es un libro sencillo y rápido
 de leer. En sus pocas páginas -menos de 40- encierra pequeños retazos de
 sabiduría que pueden ayudar a resolver algún que otro conflicto interno.
 
@@ -49,6 +49,3 @@ corazón lleno de agradecimiento, ocurrirán más cosas que nos harán sentir m�
 agradecimiento.
 
 En la vida se viene a aprender; si aún no te has dado cuenta, ya lo aprenderás.
-
-
-[1]: http://www.amazon.es/gp/product/8493600687/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8493600687&linkCode=as2&tag=noleesbl09-21

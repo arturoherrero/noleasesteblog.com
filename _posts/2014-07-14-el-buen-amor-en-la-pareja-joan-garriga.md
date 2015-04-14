@@ -40,10 +40,6 @@ algo negativo. Es maravilloso mirar a los ojos a alguien y decirle eso porque
 te da la libertad de elegir, quitando a la otra persona la carga de la falsa
 responsabilidad de que en sus manos está nuestro bienestar.
 
-Si te apetece saber un poco más sobre el buen amor, puedes comprarlo ahora en
-Amazon [El buen amor en la pareja][3].
-
 
 [1]: http://es.wikipedia.org/wiki/Constelaciones_familiares
 [2]: http://gestalticos.espacioblog.com/post/2009/11/08/oracion-gestaltica-fritz-perls
-[3]: http://www.amazon.es/gp/product/8423346250/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8423346250&linkCode=as2&tag=noleesbl09-21

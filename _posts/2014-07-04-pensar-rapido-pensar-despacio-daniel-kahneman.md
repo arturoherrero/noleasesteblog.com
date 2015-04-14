@@ -19,8 +19,8 @@ obsesionado. Creo que cada 3 meses la vuelvo a leer y siempre me parece
 increíble todos los errores, imprecisiones y distorsiones que cometemos los
 humanos.
 
-Éste es el tema del último libro que he leído, **[Pensar rápido, pensar
-despacio de Daniel Kahneman][2]**, en el que presenta muchas investigaciones y
+Éste es el tema del último libro que he leído, **Pensar rápido, pensar
+despacio de Daniel Kahneman**, en el que presenta muchas investigaciones y
 experimentos realizados durante varias décadas de trabajo. A continuación
 describo sólo algunas de las ideas que podemos encontrar.
 
@@ -88,10 +88,9 @@ La forma en que se nos presenta la información condiciona nuestras decisiones.
 Hay un 10 por ciento de mortalidad en el primer mes.
 
 
-[Pensar rápido, pensar despacio][2] es uno de los mejores libros que he leído
+Pensar rápido, pensar despacio es uno de los mejores libros que he leído
 en mi vida y Daniel Kahneman fue el psicólogo que ganó aquel Premio Nobel de
 Economía. Brillante, estimulante e inspirador.
 
 
 [1]: http://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos
-[2]: http://www.amazon.es/gp/product/8490322503/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8490322503&linkCode=as2&tag=noleesbl09-21

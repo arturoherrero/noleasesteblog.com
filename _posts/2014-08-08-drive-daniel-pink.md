@@ -8,7 +8,7 @@ author: Beatriz Espinosa
 categories: psicología
 ---
 
-[La sorprendente verdad sobre qué nos motiva][1] es un libro más que
+La sorprendente verdad sobre qué nos motiva es un libro más que
 recomendable donde Daniel Pink analiza las claves sobre qué nos mueve a hacer
 lo que hacemos y por qué lo hacemos de una manera concreta. Pink ha recabado
 una gran cantidad de bibliografía en la que ha dividido las clases de
@@ -94,5 +94,4 @@ por dos segundos. Quizá estemos en el camino de conseguirlo.
 Daniel Pink también tiene una TED Talk que se encuentra en el top 10 de las más
 vistas de la historia, [The puzzle of motivation][2].
 
-[1]: http://www.amazon.es/gp/product/8498750784/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8498750784&linkCode=as2&tag=noleesbl09-21
 [2]: http://www.ted.com/talks/dan_pink_on_motivation

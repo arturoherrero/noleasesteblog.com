@@ -8,7 +8,7 @@ author: Beatriz Espinosa
 categories: psicología
 ---
 
-La doctora en medicina Louann Brizendine nos muestra en [El cerebro femenino][1]
+La doctora en medicina Louann Brizendine nos muestra en El cerebro femenino
 muchas de las explicaciones de por qué las mujeres actuamos de la forma que lo
 hacemos y qué nos mueve a hacerlo. Todo ello de modo general, ya que siempre por
 supuesto existen excepciones a la regla y no hay dos seres humanos iguales, sean
@@ -80,5 +80,4 @@ mueve; no somos como ellos.
 Si quieres investigar más, puedes ver el [programa Redes sobre este tema][2].
 
 
-[1]: http://www.amazon.es/gp/product/849867803X/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=849867803X&linkCode=as2&tag=noleesbl09-21
 [2]: https://www.youtube.com/watch?v=ql4eHMFz3z8
