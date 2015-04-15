@@ -5,7 +5,7 @@ description: 21 rutas para vivir con nuestras emociones
 image: una-mochila-para-el-universo-elsa-punset.jpg
 date: 2015-04-15
 author: Beatriz Espinosa
-categories: psicología
+categories: desarrollo personal
 ---
 
 A medida que lees *Una mochila para el universo*, te da la impresión de que
@@ -15,7 +15,7 @@ transición entre temas es bastante fluida, y la autora nos ofrece así distinta
 grandes profundidades, Elsa Punset nos habla de temas tan variopintos como los
 sentimientos, la  kinestesia o la  inteligencia emocional. Un amplio abanico de
 ítems que van desde lo más *superficial* hasta las causas más rupestres de las
-acciones y elecciones que decidimos conscientes o inconscientemente tomar.
+acciones y elecciones que decidimos consciente o inconscientemente tomar.
 
 Este libro está plagado de curiosidades que te ayudarán a comprender mejor al
 género humano y a ti mismo, ese gran desconocido. En una sociedad en la vivimos
